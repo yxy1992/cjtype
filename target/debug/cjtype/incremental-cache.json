@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "cjtype": {
+      "rootPackageName": "cjtype",
+      "fileNameHash": "-4214668646705783490",
+      "timeStamp": 1740898281,
+      "isBuilt": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "3003399497422135843",
+  "rootPackageName": "cjtype"
+}
